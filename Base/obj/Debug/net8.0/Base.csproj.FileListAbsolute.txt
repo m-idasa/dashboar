@@ -1,0 +1,14 @@
+C:\Users\f.asadi\source\repos\DBS-dashboard\Base\bin\Debug\net8.0\Base.exe
+C:\Users\f.asadi\source\repos\DBS-dashboard\Base\bin\Debug\net8.0\Base.deps.json
+C:\Users\f.asadi\source\repos\DBS-dashboard\Base\bin\Debug\net8.0\Base.runtimeconfig.json
+C:\Users\f.asadi\source\repos\DBS-dashboard\Base\bin\Debug\net8.0\Base.dll
+C:\Users\f.asadi\source\repos\DBS-dashboard\Base\bin\Debug\net8.0\Base.pdb
+C:\Users\f.asadi\source\repos\DBS-dashboard\Base\obj\Debug\net8.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.asadi\source\repos\DBS-dashboard\Base\obj\Debug\net8.0\Base.AssemblyInfoInputs.cache
+C:\Users\f.asadi\source\repos\DBS-dashboard\Base\obj\Debug\net8.0\Base.AssemblyInfo.cs
+C:\Users\f.asadi\source\repos\DBS-dashboard\Base\obj\Debug\net8.0\Base.csproj.CoreCompileInputs.cache
+C:\Users\f.asadi\source\repos\DBS-dashboard\Base\obj\Debug\net8.0\Base.dll
+C:\Users\f.asadi\source\repos\DBS-dashboard\Base\obj\Debug\net8.0\refint\Base.dll
+C:\Users\f.asadi\source\repos\DBS-dashboard\Base\obj\Debug\net8.0\Base.pdb
+C:\Users\f.asadi\source\repos\DBS-dashboard\Base\obj\Debug\net8.0\Base.genruntimeconfig.cache
+C:\Users\f.asadi\source\repos\DBS-dashboard\Base\obj\Debug\net8.0\ref\Base.dll

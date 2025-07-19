@@ -1,0 +1,14 @@
+C:\Users\f.asadi\source\repos\DBS-dashboard\DBS-dashboard\bin\Debug\net8.0\DBS-dashboard.exe
+C:\Users\f.asadi\source\repos\DBS-dashboard\DBS-dashboard\bin\Debug\net8.0\DBS-dashboard.deps.json
+C:\Users\f.asadi\source\repos\DBS-dashboard\DBS-dashboard\bin\Debug\net8.0\DBS-dashboard.runtimeconfig.json
+C:\Users\f.asadi\source\repos\DBS-dashboard\DBS-dashboard\bin\Debug\net8.0\DBS-dashboard.dll
+C:\Users\f.asadi\source\repos\DBS-dashboard\DBS-dashboard\bin\Debug\net8.0\DBS-dashboard.pdb
+C:\Users\f.asadi\source\repos\DBS-dashboard\DBS-dashboard\obj\Debug\net8.0\DBS-dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.asadi\source\repos\DBS-dashboard\DBS-dashboard\obj\Debug\net8.0\DBS-dashboard.AssemblyInfoInputs.cache
+C:\Users\f.asadi\source\repos\DBS-dashboard\DBS-dashboard\obj\Debug\net8.0\DBS-dashboard.AssemblyInfo.cs
+C:\Users\f.asadi\source\repos\DBS-dashboard\DBS-dashboard\obj\Debug\net8.0\DBS-dashboard.csproj.CoreCompileInputs.cache
+C:\Users\f.asadi\source\repos\DBS-dashboard\DBS-dashboard\obj\Debug\net8.0\DBS-dashboard.dll
+C:\Users\f.asadi\source\repos\DBS-dashboard\DBS-dashboard\obj\Debug\net8.0\refint\DBS-dashboard.dll
+C:\Users\f.asadi\source\repos\DBS-dashboard\DBS-dashboard\obj\Debug\net8.0\DBS-dashboard.pdb
+C:\Users\f.asadi\source\repos\DBS-dashboard\DBS-dashboard\obj\Debug\net8.0\DBS-dashboard.genruntimeconfig.cache
+C:\Users\f.asadi\source\repos\DBS-dashboard\DBS-dashboard\obj\Debug\net8.0\ref\DBS-dashboard.dll
