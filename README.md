@@ -1,17 +1,17 @@
-# API Documentation
+# مستندات API
 
 ## GET /api/admin (Admin)
 ## POST /api/admin/total (Admin)
-### Input Parameters:
-| Parameter | Type | Required |
+### پارامترهای ورودی:
+| نام متغیر | نوع | الزامی |
 |-----------|------|--------|
-| from | string | No |
-| to | string | No |
-| services | array | Yes |
-| clients | array | Yes |
-| timePeriod | integer | No |
+| from | string | خیر |
+| to | string | خیر |
+| services | array | بله |
+| clients | array | بله |
+| timePeriod | integer | خیر |
 
-### Sample Request:
+### درخواست نمونه:
 ```json
 {
   "from": "value",
@@ -25,22 +25,22 @@
   "timePeriod": "value"
 }
 ```
-### Sample Response:
+### پاسخ نمونه:
 ```json
 "OK"
 ```
 ## GET /api/admin/totalperhour (Admin)
 ## POST /api/admin/circle (Admin)
-### Input Parameters:
-| Parameter | Type | Required |
+### پارامترهای ورودی:
+| نام متغیر | نوع | الزامی |
 |-----------|------|--------|
-| from | string | No |
-| to | string | No |
-| services | array | Yes |
-| clients | array | Yes |
-| timePeriod | integer | No |
+| from | string | خیر |
+| to | string | خیر |
+| services | array | بله |
+| clients | array | بله |
+| timePeriod | integer | خیر |
 
-### Sample Request:
+### درخواست نمونه:
 ```json
 {
   "from": "value",
@@ -54,21 +54,21 @@
   "timePeriod": "value"
 }
 ```
-### Sample Response:
+### پاسخ نمونه:
 ```json
 "OK"
 ```
 ## POST /api/admin/line (Admin)
-### Input Parameters:
-| Parameter | Type | Required |
+### پارامترهای ورودی:
+| نام متغیر | نوع | الزامی |
 |-----------|------|--------|
-| from | string | No |
-| to | string | No |
-| services | array | Yes |
-| clients | array | Yes |
-| timePeriod | integer | No |
+| from | string | خیر |
+| to | string | خیر |
+| services | array | بله |
+| clients | array | بله |
+| timePeriod | integer | خیر |
 
-### Sample Request:
+### درخواست نمونه:
 ```json
 {
   "from": "value",
@@ -82,22 +82,22 @@
   "timePeriod": "value"
 }
 ```
-### Sample Response:
+### پاسخ نمونه:
 ```json
 "OK"
 ```
 ## GET /api/admin/clients (Admin)
-### Sample Response:
+### پاسخ نمونه:
 ```json
 "OK"
 ```
 ## GET /api/admin/services (Admin)
-### Sample Response:
+### پاسخ نمونه:
 ```json
 "OK"
 ```
 ## GET /api/admin/dailylogin (Admin)
-### Sample Response:
+### پاسخ نمونه:
 ```json
 {
   "service": "value",
@@ -108,17 +108,17 @@
 }
 ```
 ## GET /api/admin/logedinusers (Admin)
-### Sample Response:
+### پاسخ نمونه:
 ```json
 "OK"
 ```
 ## GET /api/admin/notlogedinusers (Admin)
-### Sample Response:
+### پاسخ نمونه:
 ```json
 "OK"
 ```
 ## GET /api/admin/sendmessage (Admin)
-### Sample Response:
+### پاسخ نمونه:
 ```json
 "OK"
 ```
